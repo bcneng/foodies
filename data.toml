@@ -43,6 +43,10 @@ item_style = "outline"
 title = "Tortillas - Barcelona"
 description = ""
 url = "https://maps.app.goo.gl/74bkzNS2MYy3h5hX9"
+[[sections.items]]
+title = "Ramen - Barcelona"
+description = ""
+url = "https://maps.app.goo.gl/ttaYH75qfikW9GAW7"
 
 [[sections]]
 title = "Links"
