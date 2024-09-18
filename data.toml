@@ -47,6 +47,10 @@ url = "https://maps.app.goo.gl/74bkzNS2MYy3h5hX9"
 title = "Ramen - Barcelona"
 description = ""
 url = "https://maps.app.goo.gl/ttaYH75qfikW9GAW7"
+[[sections.items]]
+title = "Vermuteo & Tapeo - Barcelona"
+description = ""
+url = "https://maps.app.goo.gl/n5N595iqnGKEhSxL6"
 
 [[sections]]
 title = "Links"
