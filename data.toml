@@ -1,5 +1,5 @@
 name = "BcnFoodies"
-description = "A list of Google Maps of restaurants curated by bcneng.org community."
+description = "A list of Google Maps of restaurants curated by https://bcneng.org/ community."
 keywords = "food, foodies, barcelona, maps, eating"
 image = "bcnfoodies.webp"
 theme = "light"
@@ -9,8 +9,8 @@ gtag_id = ""
 base_url = "https://bcneng.github.io/foodies/"
 
 [[sections]]
-title = "BcnFoodies"
-description = "A list of Google Maps of restaurants curated by bcneng.org community."
+title = "Cities"
+description = ""
 direction = "column"
 item_style = "outline"
 [[sections.items]]
@@ -33,6 +33,12 @@ url = "https://maps.app.goo.gl/a4Mwqk7pj6zdc36U6"
 title = "Paris"
 description = ""
 url = "https://maps.app.goo.gl/DYpVH2PzdETCMCqh6"
+
+[[sections]]
+title = "Barcelona"
+description = ""
+direction = "column"
+item_style = "outline"
 [[sections.items]]
 title = "Tortillas - Barcelona"
 description = ""
