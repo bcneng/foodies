@@ -53,6 +53,16 @@ description = ""
 url = "https://maps.app.goo.gl/n5N595iqnGKEhSxL6"
 
 [[sections]]
+title = "Regions"
+description = ""
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Catalonia"
+description = ""
+url = "https://maps.app.goo.gl/DgcF2T2HgMe3eQL37"
+
+[[sections]]
 title = "Links"
 description = "Bcn Engineering"
 direction = "row"
