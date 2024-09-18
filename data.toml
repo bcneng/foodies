@@ -25,6 +25,18 @@ url = "https://maps.app.goo.gl/vy7wnkuxb23igrHu5"
 title = "Zaragoza"
 description = ""
 url = "https://maps.app.goo.gl/kEm6NEZopSuF7u1M7"
+[[sections.items]]
+title = "Rome"
+description = ""
+url = "https://maps.app.goo.gl/a4Mwqk7pj6zdc36U6"
+[[sections.items]]
+title = "Paris"
+description = ""
+url = "https://maps.app.goo.gl/DYpVH2PzdETCMCqh6"
+[[sections.items]]
+title = "Tortillas - Barcelona"
+description = ""
+url = "https://maps.app.goo.gl/74bkzNS2MYy3h5hX9"
 
 [[sections]]
 title = "Links"
